@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://unuruosa.github.io/GCT/sitemap_index.txt
+Sitemap: https://unuruosa.github.io/MXc/sitemap_index.txt
+Sitemap: https://unuruosa.github.io/UBH/sitemap_index.txt
+Sitemap: https://unuruosa.github.io/WQL/sitemap_index.txt
